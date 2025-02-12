@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Capgemini-Product-Search-Assignment1/static/css/main.9fe40f7c.css",
+    "main.js": "/Capgemini-Product-Search-Assignment1/static/js/main.02097563.js",
+    "static/js/488.70d42f47.chunk.js": "/Capgemini-Product-Search-Assignment1/static/js/488.70d42f47.chunk.js",
+    "index.html": "/Capgemini-Product-Search-Assignment1/index.html",
+    "main.9fe40f7c.css.map": "/Capgemini-Product-Search-Assignment1/static/css/main.9fe40f7c.css.map",
+    "main.02097563.js.map": "/Capgemini-Product-Search-Assignment1/static/js/main.02097563.js.map",
+    "488.70d42f47.chunk.js.map": "/Capgemini-Product-Search-Assignment1/static/js/488.70d42f47.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9fe40f7c.css",
+    "static/js/main.02097563.js"
+  ]
+}
